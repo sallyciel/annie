@@ -3,8 +3,8 @@ package udn
 import (
 	"testing"
 
-	"github.com/iawia002/annie/extractors/types"
-	"github.com/iawia002/annie/test"
+	"github.com/sallyciel/annie/extractors/types"
+	"github.com/sallyciel/annie/test"
 )
 
 func TestExtract(t *testing.T) {

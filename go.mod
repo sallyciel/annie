@@ -1,4 +1,4 @@
-module github.com/iawia002/annie
+module github.com/sallyciel/annie
 
 go 1.13
 

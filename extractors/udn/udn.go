@@ -4,9 +4,9 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/iawia002/annie/extractors/types"
-	"github.com/iawia002/annie/request"
-	"github.com/iawia002/annie/utils"
+	"github.com/sallyciel/annie/extractors/types"
+	"github.com/sallyciel/annie/request"
+	"github.com/sallyciel/annie/utils"
 )
 
 const (

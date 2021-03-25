@@ -11,12 +11,12 @@ import (
 	"github.com/fatih/color"
 	"github.com/go-rod/rod"
 
-	"github.com/iawia002/annie/cookier"
-	"github.com/iawia002/annie/downloader"
-	"github.com/iawia002/annie/extractors"
-	"github.com/iawia002/annie/extractors/types"
-	"github.com/iawia002/annie/request"
-	"github.com/iawia002/annie/utils"
+	"github.com/sallyciel/annie/cookier"
+	"github.com/sallyciel/annie/downloader"
+	"github.com/sallyciel/annie/extractors"
+	"github.com/sallyciel/annie/extractors/types"
+	"github.com/sallyciel/annie/request"
+	"github.com/sallyciel/annie/utils"
 )
 
 var (
